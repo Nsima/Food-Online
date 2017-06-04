@@ -1,9 +1,9 @@
 # Online Food Ordering
 
-Online food ordering system. Made this a year ago 2 nights before my solo thesis defense. sorry for the dirty codes , crazy folder structure, errors and unfinished modules. Newbie codes and coding techniques so hoping everyone can understand flow and proccess. Fully responsive using media queries no frameworks. Realtime updates using long polling. Unfinished homepage view http://localhost/conchos/admin/ this supposed to be the user homepage.
+Online food ordering system. I did not make this, I worked on someone's design pattern. Newbie codes and coding techniques so hoping everyone can understand flow and proccess. Fully responsive using media queries no frameworks. Realtime updates using long polling. 
 
 ### PLEASE READ
-  Use this as reference only. should not be use as project or thesis. Deploy for a client. there are many errors ill try to update those just create an issue. lost the latest files of this system. this should have paypal payment etc. 
+  Use this as reference only. should not be use as project or thesis. This should have paypal payment etc. 
 
 ### Features
 User
@@ -40,7 +40,7 @@ Admin
 ### How to Setup
   1. Download Xampp or Wamp local server.
   2. Start Xampp or Wamp local server.
-  3. Import 'conchos_sisig.sql' database in http://localhost/phpmyadmin .
+  3. Import 'food.sql' database in http://localhost/phpmyadmin .
   4. Move files in htdocs or www folder in your localserver folder.
   5. Open browser and go to http://localhost/OnlineFoodOrdering for users side.
   6. Open browser and go to http://localhost/OnlineFoodOrdering/admin/dashboard/login for the admin dashboard.
