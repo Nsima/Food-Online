@@ -1,6 +1,6 @@
 # Online Food Ordering
 
-Online food ordering system. I did not make this, I worked on someone's design pattern. Newbie codes and coding techniques so hoping everyone can understand flow and proccess. Fully responsive using media queries no frameworks. Realtime updates using long polling. 
+Online food ordering system. Fully responsive using media queries no frameworks. Realtime updates using long polling. 
 
 ### PLEASE READ
   Use this as reference only. should not be use as project or thesis. This should have paypal payment etc. 
